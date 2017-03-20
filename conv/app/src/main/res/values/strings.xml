@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">bitbybyte</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_1">1</string>
+    <string name="button_2">2</string>
+    <string name="button_3">3</string>
+    <string name="button_4">4</string>
+    <string name="button_5">5</string>
+    <string name="button_6">6</string>
+    <string name="button_7">7</string>
+    <string name="button_8">8</string>
+    <string name="button_9">9</string>
+    <string name="button_0">0</string>
+    <string name="button_clear">C</string>
+    <string name="button_decimal">.</string>
+    <string name="button_equals">=</string>
+    <string name="button_add">+</string>
+    <string name="button_subtract">-</string>
+    <string name="button_multiply">*</string>
+    <string name="button_divide">/</string>
+    <string name="button_delete"><![CDATA[<--]]></string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+    <string-array name="Packets">
+        <item>BIT</item>
+        <item>KBIT</item>
+        <item>MBIT</item>
+        <item>GBIT</item>
+        <item>BYTE</item>
+        <item>KBYTE</item>
+        <item>MBYTE</item>
+        <item>GBYTE</item>
+        <item>TBYTE</item>
+
+    </string-array>
+    <string name="title_activity_top_ten">Top Ten Currencies</string>
+    <string name="title_activity_nav_drawer">NavDrawer</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+
+
+
+
+    <string-array name="sprItems">
+        <item >Megabits</item>
+        <item >Kilobits</item>
+        <item >Megabtes</item>
+        <item >/</item>
+    </string-array>
+
+
+
+</resources>

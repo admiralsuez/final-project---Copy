@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.35"
+        android:weightSum="1">
+
+        <TextView
+            android:layout_width="288dp"
+            android:layout_height="wrap_content"
+            android:text="Megabit is often confused with megabyte, this app is to clarify the differences "
+            android:id="@+id/textView"
+            android:layout_gravity="center_horizontal"
+            android:layout_weight="1.08"
+            android:textSize="25dp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_weight="0.35">
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="New Button"
+            android:id="@+id/button14"
+            android:layout_gravity="center_horizontal"
+            android:onClick="edB" />
+    </LinearLayout>
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="New Button"
+        android:id="@+id/button13"
+        android:layout_gravity="center_horizontal"
+        android:layout_weight="0.16"
+        android:onClick="backButton"
+        android:clickable="true"
+        android:drawableTintMode="src_atop"
+        android:enabled="true"
+        android:focusable="true"
+        android:focusableInTouchMode="false" />
+</LinearLayout>

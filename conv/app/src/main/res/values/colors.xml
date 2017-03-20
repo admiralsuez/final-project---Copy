@@ -1,0 +1,10 @@
+<resources>
+<color name="pressed_color">#1a5a6f </color>
+<color name="colorPrimary">#66CCFF </color>
+<color name="colorPrimaryDark">#1c3a4f </color>
+<color name="default_color">#003399 </color>
+<color name="black">#000000 </color>
+<color name="operand_color">#e3f2fd </color>
+<color name="background_display">#070b2e</color>
+<color name="operation_color">#448aff </color>
+</resources>
